@@ -292,7 +292,11 @@
 				<Property Name="Bld_modifyLibraryFile" Type="Bool">true</Property>
 				<Property Name="Bld_previewCacheID" Type="Str">{38E94F8D-E5A1-4A9D-A666-29E68A3D7811}</Property>
 <<<<<<< HEAD
+<<<<<<< HEAD
 				<Property Name="Bld_version.build" Type="Int">75</Property>
+=======
+				<Property Name="Bld_version.build" Type="Int">56</Property>
+>>>>>>> parent of 9f65f16... Removed accelerometers
 =======
 				<Property Name="Bld_version.build" Type="Int">56</Property>
 >>>>>>> parent of 9f65f16... Removed accelerometers
